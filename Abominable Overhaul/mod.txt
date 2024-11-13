@@ -18,7 +18,7 @@
 		{
 				"identifier" : "theabominable",
 				"host" : {
-						"meta" : "https://github.com/FrenGain/PD2_Abominable_Overhaul/blob/main/theabominable.json"
+						"meta" : "https://raw.githubusercontent.com/FrenGain/PD2_Abominable_Overhaul/main/theabominable.json"
 				}
 		}
 		]
